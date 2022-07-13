@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="winners_on_rock">
+        <item>@drawable/ic_spock_round</item>
+        <item>@drawable/ic_paper_round</item>
+        <item>@drawable/ic_rock_round</item>
+
+    </integer-array>
+    <integer-array name="winners_on_paper">
+        <item>@drawable/ic_scissors_round</item>
+        <item>@drawable/ic_lizard_round</item>
+        <item>@drawable/ic_paper_round</item>
+    </integer-array>
+    <integer-array name="winners_on_scissors">
+        <item>@drawable/ic_spock_round</item>
+        <item>@drawable/ic_rock_round</item>
+        <item>@drawable/ic_scissors_round</item>
+    </integer-array>
+    <integer-array name="winners_on_lizard">
+        <item>@drawable/ic_scissors_round</item>
+        <item>@drawable/ic_rock_round</item>
+        <item>@drawable/ic_lizard_round</item>
+    </integer-array>
+    <integer-array name="winners_on_spock">
+        <item>@drawable/ic_paper_round</item>
+        <item>@drawable/ic_lizard_round</item>
+        <item>@drawable/ic_spock_round</item>
+    </integer-array>
+
+    <integer-array name="loosers_on_rock">
+        <item>@drawable/ic_scissors_round</item>
+        <item>@drawable/ic_lizard_round</item>
+    </integer-array>
+    <integer-array name="loosers_on_paper">
+        <item>@drawable/ic_rock_round</item>
+        <item>@drawable/ic_spock_round</item>
+    </integer-array>
+    <integer-array name="loosers_on_scissors">
+        <item>@drawable/ic_paper_round</item>
+        <item>@drawable/ic_lizard_round</item>
+    </integer-array>
+    <integer-array name="loosers_on_lizard">
+        <item>@drawable/ic_paper_round</item>
+        <item>@drawable/ic_spock_round</item>
+    </integer-array>
+    <integer-array name="loosers_on_spock">
+        <item>@drawable/ic_rock_round</item>
+        <item>@drawable/ic_scissors_round</item>
+
+    </integer-array>
+</resources>

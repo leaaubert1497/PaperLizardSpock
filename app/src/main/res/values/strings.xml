@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PaperLizardSpock</string>
+    <string name="email_hint">Entrez votre adresse mail</string>
+    <string name="pseudo_hint">Entrez votre pseudo</string>
+    <string name="password_hint">Entrez votre mot de passe</string>
+    <string name="password_confirm_hint">Confirmez votre mot de passe</string>
+    <string name="rule_scissors1_fr">Les ciseaux coupent le papier</string>
+    <string name="rule_paper1_fr">Le papier couvre la pierre</string>
+    <string name="rule_paper2_fr">Le papier repousse Spock</string>
+    <string name="rule_rock1_fr">La pierre écrase le lézard</string>
+    <string name="rule_lizard1_fr">Le lézard empoisonne Spock</string>
+    <string name="rule_spock1_fr">Spock écrabouille les ciseaux</string>
+    <string name="rule_scissors2_fr">Les ciseaux décapitent le lézard</string>
+    <string name="rule_lizard2_fr">Le lézard mange le papier</string>
+    <string name="rule_spock2_fr">Spock détruit la pierre</string>
+    <string name="rule_rock2_fr">La pierre casse les ciseaux</string>
+    <string name="act_rules_title_fr">Démonstration des règles</string>
+    <string name="act_game_board_title_fr">Pierre, Papier, Ciseaux, Lézard, Spock </string>
+    <string name="button_start_game_fr">Commencer la partie</string>
+    <string name="retry_fr">Réessayer</string>
+    <string name="bot_answer_fr">Réponse du bot :</string>
+    <string name="bot_victory">Le bot a gagné!</string>
+    <string name="player_victory">Vous avez gagné!</string>
+
+
+    <string-array name="difficulties_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+
+</resources>
